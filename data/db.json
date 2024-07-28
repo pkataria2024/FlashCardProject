@@ -1,0 +1,71 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "React Router new",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "New abc",
+      "back": "Newabc",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "new",
+      "back": "new",
+      "deckId": 2,
+      "id": 8
+    },
+    {
+      "front": "anv",
+      "back": "anv",
+      "deckId": 2,
+      "id": 9
+    },
+    {
+      "front": "1",
+      "back": "1",
+      "deckId": 2,
+      "id": 10
+    },
+    {
+      "front": "2",
+      "back": "2",
+      "deckId": 2,
+      "id": 11
+    }
+  ]
+}
